@@ -1,6 +1,6 @@
-# Matrix-Addition-With-Unified-Memory
-Refer to the program sumMatrixGPUManaged.cu. Would removing the memsets below affect 
-performance? If you can, check performance with nvprof or nvvp.
+### Exp No: 04
+### Date: 27-09-2023
+# <p align="center">Matrix-Addition-With-Unified-Memory</p>
 ## AIM
 To perform Matrix addition with unified memory and check its performance with nvprof.
 
@@ -489,4 +489,4 @@ int main(int argc, char **argv)
 
 
 ## RESULT
-Thus Matrix addition with unified memory is done successfully.
+Thus, Matrix addition with unified memory is done successfully.
